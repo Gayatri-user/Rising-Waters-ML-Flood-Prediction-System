@@ -2,7 +2,7 @@
 
 ## Project Documentation Repository
 
-This repository contains the complete documentation developed for the **Rising Waters – Machine Learning Based Flood Prediction System** as part of the IBM SkillsBuild Internship Program.
+This repository contains the complete documentation developed for the **Rising Waters – Machine Learning Based Flood Prediction System** as part of the APSCHE, SmartInternz-SmartBridge Educational Services Pvt.Ltd. and IBM SkillsBuild Internship Program.
 
 The project focuses on predicting flood risk using Machine Learning techniques and provides a web-based application for real-time flood prediction based on weather and rainfall parameters.
 
@@ -162,7 +162,7 @@ Rajiv Gandhi University of Knowledge Technologies (RGUKT), RK Valley
 
 ## Acknowledgement
 
-This project was developed as part of the **IBM SkillsBuild Internship Program** under the guidance of project mentors and faculty coordinators.
+I would like to express my sicere gratitude to **APSCHE, SmartBridge Educational Services Pvt.Ltd. and IBM SkillsBuild** for providing me with the opportunity to undertake this Virtual internship.I am highly thankful to SmartBridge for managing the program seamlessly through the **SmartInternz** portal for providing access to learning tracks  under the guidance of project mentors and faculty coordinators.
 
 ---
 
